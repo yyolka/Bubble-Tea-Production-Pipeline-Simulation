@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\bin\Debug\net8.0\BubbleTea.Domain.deps.json
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\bin\Debug\net8.0\BubbleTea.Domain.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\bin\Debug\net8.0\BubbleTea.Domain.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.AssemblyInfo.cs
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\refint\BubbleTea.Domain.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\BubbleTea.Domain.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Domain\obj\Debug\net8.0\ref\BubbleTea.Domain.dll

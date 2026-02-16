@@ -1,0 +1,17 @@
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Core.deps.json
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Core.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Core.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Configuration.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Domain.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Domain.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\bin\Debug\net8.0\BubbleTea.Configuration.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.AssemblyInfo.cs
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTe.EED0C972.Up2Date
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\refint\BubbleTea.Core.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\BubbleTea.Core.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Core\obj\Debug\net8.0\ref\BubbleTea.Core.dll

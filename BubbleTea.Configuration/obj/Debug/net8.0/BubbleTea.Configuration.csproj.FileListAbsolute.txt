@@ -1,0 +1,15 @@
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\bin\Debug\net8.0\BubbleTea.Configuration.deps.json
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\bin\Debug\net8.0\BubbleTea.Configuration.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\bin\Debug\net8.0\BubbleTea.Configuration.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\bin\Debug\net8.0\BubbleTea.Domain.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\bin\Debug\net8.0\BubbleTea.Domain.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.AssemblyInfo.cs
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTe.ED951231.Up2Date
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\refint\BubbleTea.Configuration.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\BubbleTea.Configuration.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab7\BubbleTeaSimulation\BubbleTea.Configuration\obj\Debug\net8.0\ref\BubbleTea.Configuration.dll

@@ -1,0 +1,40 @@
+{
+  "SimulationDurationSeconds": 60,
+  "RegularEmitterCount": 2,
+  "GroupEmitterCount": 1,
+  "BasePreparationHandlers": 3,  
+  "TapiocaCookingHandlers": 3,    
+  "ToppingsHandlers": 4,         
+  "QualityControlHandlers": 2,    
+  "PackagingHandlers": 2,         
+  "Emitter": {
+    "RegularOrderIntervalMean": 5.0,    
+    "RegularOrderIntervalDeviation": 2.0,
+    "GroupOrderIntervalMean": 15.0,    
+    "GroupOrderIntervalDeviation": 5.0
+  },
+  "Queues": {
+    "OrderQueueCapacity": 35,
+    "TapiocaQueueCapacity": 25,        
+    "ReadyQueueCapacity": 20   
+  },         
+  "Handlers": {
+    "BasePreparationMinTime": 0.5,
+    "BasePreparationMaxTime": 1.0,
+    "BasePreparationSuccessRate": 0.85,
+    "BasePreparationRecalibrationRate": 0.10,
+    "TapiocaCookingMinTime": 6.0,       
+    "TapiocaCookingMaxTime": 10.0,      
+    "TapiocaCookingSuccessRate": 0.95,
+    "ToppingsMinTime": 0.3,           
+    "ToppingsMaxTime": 0.8,             
+    "ToppingsSuccessRate": 0.90,
+    "ToppingsReworkRate": 0.05,
+    "QualityControlMinTime": 0.5,      
+    "QualityControlMaxTime": 1.0,       
+    "QualityControlSuccessRate": 0.85,
+    "QualityControlMinorDefectRate": 0.10,
+    "PackagingMinTime": 1.5,            
+    "PackagingMaxTime": 5.0            
+  }
+}

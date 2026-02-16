@@ -1,0 +1,426 @@
+14:40:31 - === Starting Bubble Tea Production Simulation ===
+14:40:31 - === Starting Bubble Tea Production Simulation ===
+14:40:31 - Created 3 emitters
+14:40:31 - Created 14 handlers
+14:40:31 - Started 17 components
+14:40:31 - Simulation running for 60 seconds...
+14:40:31 - Initial tapioca: 10
+14:40:31 - Emitter 1 (Regular) started
+14:40:31 - Emitter 2 (Regular) started
+14:40:31 - Emitter 3 (Group) started
+14:40:31 - TapiocaCookingHandler 6 started
+14:40:31 - TapiocaCookingHandler 5 started
+14:40:31 - TapiocaCookingHandler 4 started
+14:40:31 - BasePreparationHandler 1 started
+14:40:31 - BasePreparationHandler 3 started
+14:40:31 - BasePreparationHandler 2 started
+14:40:31 - ToppingsHandler 7 started
+14:40:31 - ToppingsHandler 8 started
+14:40:31 - ToppingsHandler 9 started
+14:40:31 - ToppingsHandler 10 started
+14:40:31 - PackagingHandler 13 started
+14:40:31 - PackagingHandler 14 started
+14:40:31 - QualityControlHandler 12 started
+14:40:31 - QualityControlHandler 11 started
+14:40:36 - Order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b generated (Total: 1)
+14:40:36 - BasePreparationHandler 2 processing order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:36 - Emitter 2 generated Coffee with tapioca order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:37 - BasePreparationHandler 2 needs recalibration for order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:37 - BasePreparationHandler 3 processing order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:37 - Order 718f195a-a4bb-41e1-8033-f50b2139d5bc generated (Total: 2)
+14:40:37 - Emitter 1 generated Coffee with tapioca order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:37 - BasePreparationHandler 2 processing order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:37 - BasePreparationHandler 3 completed order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:37 - ToppingsHandler 10 processing order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:37 - BasePreparationHandler 2 completed order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:37 - ToppingsHandler 9 processing order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:38 - QualityControlHandler 11 checking order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:38 - ToppingsHandler 9 completed order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:38 - TapiocaCookingHandler 5 started cooking batch
+14:40:38 - TapiocaCookingHandler 4 started cooking batch
+14:40:38 - TapiocaCookingHandler 6 started cooking batch
+14:40:38 - ToppingsHandler 10 completed order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:38 - QualityControlHandler 12 checking order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:39 - QualityControlHandler 11 minor defect in order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:39 - QualityControlHandler 12 approved order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:39 - TapiocaCookingHandler 5 started cooking batch
+14:40:39 - TapiocaCookingHandler 6 started cooking batch
+14:40:39 - TapiocaCookingHandler 4 started cooking batch
+14:40:39 - PackagingHandler 14 packaging order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:40 - Order 96c6801b-ec40-439c-807f-f4781a49272f generated (Total: 3)
+14:40:40 - BasePreparationHandler 1 processing order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:40 - Emitter 2 generated Milk tea order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:40 - TapiocaCookingHandler 4 started cooking batch
+14:40:40 - TapiocaCookingHandler 6 started cooking batch
+14:40:40 - TapiocaCookingHandler 5 started cooking batch
+14:40:40 - BasePreparationHandler 1 completed order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:40 - ToppingsHandler 10 processing order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:41 - ToppingsHandler 10 completed order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:41 - QualityControlHandler 12 checking order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:41 - Order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8 generated (Total: 4)
+14:40:41 - Emitter 1 generated Milk tea order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:41 - BasePreparationHandler 3 processing order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:41 - PackagingHandler 13 packaging order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:41 - QualityControlHandler 12 approved order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:42 - BasePreparationHandler 3 completed order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:42 - ToppingsHandler 9 processing order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:42 - ToppingsHandler 9 completed order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:42 - QualityControlHandler 12 checking order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:43 - QualityControlHandler 12 approved order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:44 - PackagingHandler 14 completed order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b
+14:40:44 - Order 17945bc9-3ac4-4b9a-a63a-2a31e97e095b completed in 7,7s
+14:40:44 - PackagingHandler 14 packaging order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:44 - Order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19 generated (Total: 5)
+14:40:44 - BasePreparationHandler 2 processing order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:44 - Emitter 1 generated Coffee with tapioca order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:44 - BasePreparationHandler 2 completed order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:44 - ToppingsHandler 10 processing order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:44 - TapiocaCookingHandler 5 added tapioca portion
+14:40:44 - TapiocaCookingHandler 5 added tapioca portion
+14:40:44 - TapiocaCookingHandler 5 added tapioca portion
+14:40:45 - ToppingsHandler 10 missing ingredients for order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:45 - ToppingsHandler 7 processing order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:45 - ToppingsHandler 7 completed order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:45 - Order 73d80793-34f8-470c-a362-32e777d1093f generated (Total: 6)
+14:40:45 - QualityControlHandler 12 checking order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:45 - BasePreparationHandler 3 processing order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:45 - Emitter 2 generated Coffee with tapioca order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:45 - TapiocaCookingHandler 5 added tapioca portion
+14:40:45 - TapiocaCookingHandler 5 added tapioca portion
+14:40:45 - TapiocaCookingHandler 5 added tapioca portion
+14:40:45 - PackagingHandler 13 completed order 96c6801b-ec40-439c-807f-f4781a49272f
+14:40:45 - Order 96c6801b-ec40-439c-807f-f4781a49272f completed in 5,8s
+14:40:46 - TapiocaCookingHandler 6 added tapioca portion
+14:40:46 - TapiocaCookingHandler 6 added tapioca portion
+14:40:46 - TapiocaCookingHandler 6 added tapioca portion
+14:40:46 - QualityControlHandler 12 approved order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:46 - PackagingHandler 13 packaging order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:46 - BasePreparationHandler 3 completed order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:46 - ToppingsHandler 7 processing order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:46 - TapiocaCookingHandler 4 added tapioca portion
+14:40:46 - TapiocaCookingHandler 4 added tapioca portion
+14:40:46 - TapiocaCookingHandler 4 added tapioca portion
+14:40:46 - ToppingsHandler 7 completed order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:46 - QualityControlHandler 12 checking order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:47 - TapiocaCookingHandler 6 added tapioca portion
+14:40:47 - TapiocaCookingHandler 6 added tapioca portion
+14:40:47 - TapiocaCookingHandler 6 added tapioca portion
+14:40:47 - QualityControlHandler 12 approved order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:47 - PackagingHandler 14 completed order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8
+14:40:47 - Order 1f6ac440-a3ad-4cc4-acf4-e2519b7928f8 completed in 6,7s
+14:40:47 - PackagingHandler 14 packaging order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:48 - TapiocaCookingHandler 6 added tapioca portion
+14:40:48 - TapiocaCookingHandler 6 added tapioca portion
+14:40:48 - TapiocaCookingHandler 6 added tapioca portion
+14:40:48 - TapiocaCookingHandler 4 added tapioca portion
+14:40:48 - TapiocaCookingHandler 4 added tapioca portion
+14:40:48 - TapiocaCookingHandler 4 added tapioca portion
+14:40:49 - PackagingHandler 13 completed order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19
+14:40:49 - Order 160a616e-2c6c-4c0c-8e9a-5cf8157b2f19 completed in 4,9s
+14:40:49 - Group order a1411fbd-31b9-41a9-98cf-74082444ae37 generated (Qty: 3, Total: 7)
+14:40:49 - Emitter 3 generated group order a1411fbd-31b9-41a9-98cf-74082444ae37 (Qty: 3, Complexity: 1,50)
+14:40:49 - BasePreparationHandler 2 processing order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:49 - TapiocaCookingHandler 5 added tapioca portion
+14:40:50 - PackagingHandler 14 completed order 73d80793-34f8-470c-a362-32e777d1093f
+14:40:50 - Order 73d80793-34f8-470c-a362-32e777d1093f completed in 4,7s
+14:40:50 - BasePreparationHandler 2 completed order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:50 - ToppingsHandler 10 processing order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:51 - ToppingsHandler 10 completed order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:51 - QualityControlHandler 12 checking order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:51 - Order e8d4adba-23bc-4808-801e-884e058228bc generated (Total: 8)
+14:40:51 - Emitter 2 generated Milk tea order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:51 - BasePreparationHandler 1 processing order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:51 - Order 5692c735-9520-4408-8bde-0ade98571132 generated (Total: 9)
+14:40:51 - Emitter 1 generated Milk tea order 5692c735-9520-4408-8bde-0ade98571132
+14:40:51 - BasePreparationHandler 3 processing order 5692c735-9520-4408-8bde-0ade98571132
+14:40:52 - QualityControlHandler 12 approved order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:52 - PackagingHandler 13 packaging order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:52 - BasePreparationHandler 1 completed order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:52 - ToppingsHandler 8 processing order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:52 - ToppingsHandler 10 processing order 5692c735-9520-4408-8bde-0ade98571132
+14:40:52 - BasePreparationHandler 3 completed order 5692c735-9520-4408-8bde-0ade98571132
+14:40:52 - ToppingsHandler 8 completed order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:52 - QualityControlHandler 12 checking order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:53 - ToppingsHandler 10 completed order 5692c735-9520-4408-8bde-0ade98571132
+14:40:53 - QualityControlHandler 12 approved order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:53 - QualityControlHandler 12 checking order 5692c735-9520-4408-8bde-0ade98571132
+14:40:53 - PackagingHandler 14 packaging order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:54 - QualityControlHandler 12 critical defect in order 5692c735-9520-4408-8bde-0ade98571132
+14:40:54 - QualityControlHandler 11 checking order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:55 - QualityControlHandler 11 approved order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:56 - Order 472cbb93-910f-413a-9700-6c2dc1e2d198 generated (Total: 10)
+14:40:56 - Emitter 1 generated Coffee with tapioca order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:56 - BasePreparationHandler 3 processing order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:56 - PackagingHandler 13 completed order a1411fbd-31b9-41a9-98cf-74082444ae37
+14:40:56 - Order a1411fbd-31b9-41a9-98cf-74082444ae37 completed in 7,3s
+14:40:56 - PackagingHandler 13 packaging order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:40:57 - PackagingHandler 14 completed order e8d4adba-23bc-4808-801e-884e058228bc
+14:40:57 - Order e8d4adba-23bc-4808-801e-884e058228bc completed in 6,2s
+14:40:57 - BasePreparationHandler 3 completed order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:57 - ToppingsHandler 7 processing order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:57 - Order 93b24b22-a2f6-4a98-b7ba-d00762abe43b generated (Total: 11)
+14:40:57 - Emitter 2 generated Coffee with tapioca order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:57 - BasePreparationHandler 2 processing order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:58 - ToppingsHandler 7 completed order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:58 - QualityControlHandler 12 checking order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:58 - BasePreparationHandler 2 completed order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:58 - ToppingsHandler 8 processing order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:58 - QualityControlHandler 12 approved order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:58 - PackagingHandler 14 packaging order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:40:59 - ToppingsHandler 8 completed order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:59 - QualityControlHandler 11 checking order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:40:59 - QualityControlHandler 11 approved order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:41:00 - Order b7616690-ce4c-4dc4-975a-7821bacd06d5 generated (Total: 12)
+14:41:00 - Emitter 1 generated Special menu order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:00 - BasePreparationHandler 3 processing order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:00 - PackagingHandler 13 completed order 718f195a-a4bb-41e1-8033-f50b2139d5bc
+14:41:00 - Order 718f195a-a4bb-41e1-8033-f50b2139d5bc completed in 23,4s
+14:41:00 - PackagingHandler 13 packaging order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:41:01 - PackagingHandler 14 completed order 472cbb93-910f-413a-9700-6c2dc1e2d198
+14:41:01 - Order 472cbb93-910f-413a-9700-6c2dc1e2d198 completed in 4,3s
+14:41:01 - BasePreparationHandler 3 completed order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:01 - ToppingsHandler 9 processing order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:01 - Order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a generated (Total: 13)
+14:41:01 - Emitter 2 generated Coffee with tapioca order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:01 - BasePreparationHandler 3 processing order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:01 - === Progress Report ===
+14:41:01 - Generated: 13, Completed: 9 (69,2%)
+14:41:01 - In system: 0, Failed: 1, Rework: 2
+14:41:01 - Queues: Order(0), Prep(0), Top(0), QC(0)
+14:41:01 - Tapioca: 12/25
+14:41:01 - ToppingsHandler 9 completed order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:01 - QualityControlHandler 11 checking order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:01 - BasePreparationHandler 3 completed order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:01 - ToppingsHandler 7 processing order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:02 - ToppingsHandler 7 completed order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:02 - QualityControlHandler 12 checking order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:02 - Group order 702c2cc2-eb21-48cc-afbb-0d9161445681 generated (Qty: 2, Total: 14)
+14:41:02 - BasePreparationHandler 3 processing order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:02 - Emitter 3 generated group order 702c2cc2-eb21-48cc-afbb-0d9161445681 (Qty: 2, Complexity: 1,20)
+14:41:02 - PackagingHandler 14 packaging order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:02 - QualityControlHandler 11 approved order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:03 - BasePreparationHandler 3 completed order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:03 - ToppingsHandler 7 processing order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:03 - QualityControlHandler 12 approved order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:03 - ToppingsHandler 7 completed order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:03 - PackagingHandler 13 completed order 93b24b22-a2f6-4a98-b7ba-d00762abe43b
+14:41:03 - Order 93b24b22-a2f6-4a98-b7ba-d00762abe43b completed in 6,0s
+14:41:03 - PackagingHandler 13 packaging order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:03 - QualityControlHandler 12 checking order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:04 - PackagingHandler 14 completed order b7616690-ce4c-4dc4-975a-7821bacd06d5
+14:41:04 - Order b7616690-ce4c-4dc4-975a-7821bacd06d5 completed in 3,7s
+14:41:04 - PackagingHandler 14 packaging order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:04 - QualityControlHandler 12 approved order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:05 - Order 7816dee8-a177-4fdc-a2cd-71c090a8f968 generated (Total: 15)
+14:41:05 - BasePreparationHandler 2 processing order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:05 - Emitter 2 generated Special menu order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:06 - PackagingHandler 13 completed order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a
+14:41:06 - Order d17cc4fe-a9a1-4412-852a-ea7ef55bb12a completed in 5,0s
+14:41:06 - BasePreparationHandler 2 completed order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:06 - ToppingsHandler 8 processing order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:07 - PackagingHandler 14 completed order 702c2cc2-eb21-48cc-afbb-0d9161445681
+14:41:07 - Order 702c2cc2-eb21-48cc-afbb-0d9161445681 completed in 4,9s
+14:41:07 - Order e0041d17-0aff-4900-9614-bcfd0d9e13ad generated (Total: 16)
+14:41:07 - Emitter 1 generated Coffee with tapioca order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:07 - BasePreparationHandler 1 processing order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:07 - ToppingsHandler 8 completed order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:07 - QualityControlHandler 12 checking order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:07 - BasePreparationHandler 1 completed order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:07 - ToppingsHandler 10 processing order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:08 - ToppingsHandler 10 completed order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:08 - QualityControlHandler 11 checking order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:08 - QualityControlHandler 12 approved order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:08 - PackagingHandler 14 packaging order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:09 - QualityControlHandler 11 approved order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:09 - PackagingHandler 13 packaging order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:10 - Order d7f502a3-db43-478b-a321-f6c86327bd0c generated (Total: 17)
+14:41:10 - Emitter 2 generated Special menu order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:10 - BasePreparationHandler 1 processing order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:11 - BasePreparationHandler 1 completed order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:11 - ToppingsHandler 7 processing order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:11 - Group order 125d3cd7-7b73-47be-bd43-7263e15d37c7 generated (Qty: 2, Total: 18)
+14:41:11 - Emitter 3 generated group order 125d3cd7-7b73-47be-bd43-7263e15d37c7 (Qty: 2, Complexity: 1,20)
+14:41:11 - BasePreparationHandler 2 processing order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:11 - PackagingHandler 14 completed order 7816dee8-a177-4fdc-a2cd-71c090a8f968
+14:41:11 - Order 7816dee8-a177-4fdc-a2cd-71c090a8f968 completed in 6,3s
+14:41:12 - ToppingsHandler 7 completed order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:12 - QualityControlHandler 12 checking order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:12 - BasePreparationHandler 2 completed order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:12 - ToppingsHandler 8 processing order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:12 - Order 3d152e6e-502d-4cd7-8306-e35b9e080999 generated (Total: 19)
+14:41:12 - Emitter 1 generated Special menu order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:12 - BasePreparationHandler 2 processing order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:12 - PackagingHandler 13 completed order e0041d17-0aff-4900-9614-bcfd0d9e13ad
+14:41:12 - Order e0041d17-0aff-4900-9614-bcfd0d9e13ad completed in 5,2s
+14:41:12 - ToppingsHandler 8 completed order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:12 - QualityControlHandler 12 approved order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:12 - QualityControlHandler 12 checking order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:12 - PackagingHandler 14 packaging order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:13 - ToppingsHandler 8 processing order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:13 - BasePreparationHandler 2 completed order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:13 - QualityControlHandler 12 approved order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:13 - PackagingHandler 13 packaging order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:13 - ToppingsHandler 8 missing ingredients for order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:13 - ToppingsHandler 9 processing order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:14 - ToppingsHandler 9 completed order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:14 - QualityControlHandler 12 checking order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:14 - TapiocaCookingHandler 6 started cooking batch
+14:41:14 - TapiocaCookingHandler 5 started cooking batch
+14:41:14 - TapiocaCookingHandler 4 started cooking batch
+14:41:15 - QualityControlHandler 12 minor defect in order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:15 - PackagingHandler 14 completed order d7f502a3-db43-478b-a321-f6c86327bd0c
+14:41:15 - Order d7f502a3-db43-478b-a321-f6c86327bd0c completed in 4,8s
+14:41:15 - TapiocaCookingHandler 6 started cooking batch
+14:41:15 - TapiocaCookingHandler 5 started cooking batch
+14:41:15 - TapiocaCookingHandler 4 started cooking batch
+14:41:16 - TapiocaCookingHandler 6 started cooking batch
+14:41:16 - TapiocaCookingHandler 5 started cooking batch
+14:41:16 - TapiocaCookingHandler 4 started cooking batch
+14:41:16 - Order 738081ec-7bdd-4dcf-a023-ad713dcaab2c generated (Total: 20)
+14:41:16 - Emitter 2 generated Special menu order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:16 - BasePreparationHandler 2 processing order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:17 - PackagingHandler 13 completed order 125d3cd7-7b73-47be-bd43-7263e15d37c7
+14:41:17 - Order 125d3cd7-7b73-47be-bd43-7263e15d37c7 completed in 6,0s
+14:41:17 - BasePreparationHandler 2 completed order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:17 - ToppingsHandler 8 processing order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:18 - ToppingsHandler 8 missing ingredients for order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:18 - ToppingsHandler 9 processing order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:18 - Order e716c499-7bdb-4e02-a58f-226590ff7112 generated (Total: 21)
+14:41:18 - Emitter 1 generated Milk tea order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:18 - BasePreparationHandler 2 processing order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:19 - BasePreparationHandler 2 completed order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:19 - ToppingsHandler 10 processing order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:19 - ToppingsHandler 9 completed order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:19 - QualityControlHandler 11 checking order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:19 - ToppingsHandler 10 completed order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:20 - Group order 9e3e0cce-3edf-4d22-9720-242136bc991d generated (Qty: 5, Total: 22)
+14:41:20 - Emitter 3 generated group order 9e3e0cce-3edf-4d22-9720-242136bc991d (Qty: 5, Complexity: 3,00)
+14:41:20 - BasePreparationHandler 1 processing order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:20 - QualityControlHandler 11 approved order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:20 - PackagingHandler 14 packaging order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:20 - QualityControlHandler 11 checking order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:21 - BasePreparationHandler 1 completed order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:21 - ToppingsHandler 7 processing order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:21 - PackagingHandler 13 packaging order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:21 - QualityControlHandler 11 approved order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:21 - TapiocaCookingHandler 5 batch failed (over/undercooked)
+14:41:21 - ToppingsHandler 7 completed order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:21 - QualityControlHandler 11 checking order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:21 - TapiocaCookingHandler 5 started cooking batch
+14:41:22 - TapiocaCookingHandler 6 added tapioca portion
+14:41:22 - TapiocaCookingHandler 6 added tapioca portion
+14:41:22 - TapiocaCookingHandler 6 added tapioca portion
+14:41:22 - QualityControlHandler 11 approved order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:23 - Order e70c04ad-fd67-43e9-9151-40e5f490c440 generated (Total: 23)
+14:41:23 - Emitter 1 generated Special menu order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:23 - BasePreparationHandler 3 processing order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:23 - TapiocaCookingHandler 4 added tapioca portion
+14:41:23 - TapiocaCookingHandler 4 added tapioca portion
+14:41:23 - TapiocaCookingHandler 4 added tapioca portion
+14:41:23 - BasePreparationHandler 3 needs recalibration for order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:23 - BasePreparationHandler 3 processing order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:24 - TapiocaCookingHandler 6 added tapioca portion
+14:41:24 - TapiocaCookingHandler 6 added tapioca portion
+14:41:24 - TapiocaCookingHandler 6 added tapioca portion
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:24 - PackagingHandler 14 completed order 738081ec-7bdd-4dcf-a023-ad713dcaab2c
+14:41:24 - Order 738081ec-7bdd-4dcf-a023-ad713dcaab2c completed in 7,7s
+14:41:24 - PackagingHandler 14 packaging order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:24 - Order ceb19f71-66ae-411a-9519-31cb77fce8b4 generated (Total: 24)
+14:41:24 - Emitter 2 generated Milk tea order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:24 - BasePreparationHandler 2 processing order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:24 - BasePreparationHandler 3 completed order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:24 - ToppingsHandler 9 processing order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:24 - TapiocaCookingHandler 5 added tapioca portion
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - ToppingsHandler 9 completed order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:25 - QualityControlHandler 11 checking order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - TapiocaCookingHandler 4 added tapioca portion
+14:41:25 - ToppingsHandler 8 processing order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:25 - BasePreparationHandler 2 completed order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:25 - TapiocaCookingHandler 6 added tapioca portion
+14:41:25 - TapiocaCookingHandler 6 added tapioca portion
+14:41:25 - TapiocaCookingHandler 6 added tapioca portion
+14:41:25 - PackagingHandler 13 completed order e716c499-7bdb-4e02-a58f-226590ff7112
+14:41:25 - Order e716c499-7bdb-4e02-a58f-226590ff7112 completed in 7,0s
+14:41:26 - QualityControlHandler 11 approved order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:26 - PackagingHandler 13 packaging order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:26 - ToppingsHandler 8 completed order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:26 - QualityControlHandler 11 checking order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:26 - QualityControlHandler 11 approved order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:27 - Order 04303ad3-d928-410f-b235-2121f6f2bff7 generated (Total: 25)
+14:41:27 - Emitter 2 generated Coffee with tapioca order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:27 - BasePreparationHandler 2 processing order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:27 - PackagingHandler 14 completed order 9e3e0cce-3edf-4d22-9720-242136bc991d
+14:41:27 - Order 9e3e0cce-3edf-4d22-9720-242136bc991d completed in 7,0s
+14:41:27 - PackagingHandler 14 packaging order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:28 - BasePreparationHandler 2 completed order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:28 - ToppingsHandler 9 processing order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:28 - ToppingsHandler 9 completed order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:28 - TapiocaCookingHandler 5 added tapioca portion
+14:41:28 - TapiocaCookingHandler 5 added tapioca portion
+14:41:28 - TapiocaCookingHandler 5 added tapioca portion
+14:41:28 - QualityControlHandler 11 checking order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:28 - Order 1f21995b-19e3-4db4-981a-7022e0bb1499 generated (Total: 26)
+14:41:28 - Emitter 1 generated Coffee with tapioca order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:28 - BasePreparationHandler 1 processing order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:29 - QualityControlHandler 11 approved order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:29 - BasePreparationHandler 1 completed order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:29 - ToppingsHandler 7 processing order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:29 - PackagingHandler 14 completed order ceb19f71-66ae-411a-9519-31cb77fce8b4
+14:41:29 - Order ceb19f71-66ae-411a-9519-31cb77fce8b4 completed in 4,8s
+14:41:29 - PackagingHandler 14 packaging order 04303ad3-d928-410f-b235-2121f6f2bff7
+14:41:30 - ToppingsHandler 7 completed order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:30 - QualityControlHandler 11 checking order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:30 - QualityControlHandler 12 checking order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:30 - PackagingHandler 13 completed order e70c04ad-fd67-43e9-9151-40e5f490c440
+14:41:30 - Order e70c04ad-fd67-43e9-9151-40e5f490c440 completed in 7,3s
+14:41:30 - QualityControlHandler 11 approved order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:30 - PackagingHandler 13 packaging order 1f21995b-19e3-4db4-981a-7022e0bb1499
+14:41:31 - QualityControlHandler 12 approved order 3d152e6e-502d-4cd7-8306-e35b9e080999
+14:41:31 - Time's up! Stopping simulation...
+14:41:31 - Stopping all components...
+14:41:31 - ToppingsHandler 9 stopped
+14:41:31 - PackagingHandler 14 stopped
+14:41:31 - QualityControlHandler 11 stopped
+14:41:31 - Emitter 2 (Regular) stopped
+14:41:31 - PackagingHandler 13 stopped
+14:41:31 - TapiocaCookingHandler 4 stopped
+14:41:31 - TapiocaCookingHandler 6 stopped
+14:41:31 - Emitter 1 (Regular) stopped
+14:41:31 - TapiocaCookingHandler 5 stopped
+14:41:31 - Emitter 3 (Group) stopped
+14:41:31 - ToppingsHandler 7 stopped
+14:41:31 - BasePreparationHandler 2 stopped
+14:41:31 - BasePreparationHandler 1 stopped
+14:41:31 - BasePreparationHandler 3 stopped
+14:41:31 - ToppingsHandler 8 stopped
+14:41:31 - ToppingsHandler 10 stopped
+14:41:31 - QualityControlHandler 12 stopped
+14:41:31 - === Simulation Completed ===
+14:41:33 - Force stopping...
+14:41:33 - Stopping all components...
+14:41:33 - 
+=== SIMULATION RESULTS ===
+14:41:33 - Total orders generated: 26
+14:41:33 - Total orders processed: 22
+14:41:33 - Total orders failed: 1
+14:41:33 - Total orders reworked: 4
+14:41:33 - 
+Queue Status at End:
+14:41:33 -   OrderQueue               : 0 items
+14:41:33 -   PreparationQueue         : 0 items
+14:41:33 -   TapiocaQueue             : 23 items
+14:41:33 -   ToppingsQueue            : 0 items
+14:41:33 -   QualityQueue             : 1 items
+14:41:33 - 
+Average order processing time: 6,67 seconds
+14:41:33 - Processing success rate: 84,6%

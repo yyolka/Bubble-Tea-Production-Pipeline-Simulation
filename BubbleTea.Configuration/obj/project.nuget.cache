@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnDEcaO4LfQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\labs\\3 семестр\\lab7\\BubbleTeaSimulation\\BubbleTea.Configuration\\BubbleTea.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "projectPath": "C:\\Users\\MSI\\Documents\\labs\\3 семестр\\lab7\\BubbleTeaSimulation\\BubbleTea.Configuration\\BubbleTea.Configuration.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\MSI\\Documents\\labs\\3 семестр\\lab7\\BubbleTeaSimulation\\BubbleTea.Configuration\\BubbleTea.Configuration.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
